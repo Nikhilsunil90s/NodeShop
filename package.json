@@ -1,0 +1,24 @@
+{
+  "name": "nodeshop",
+  "version": "1.0.0",
+  "description": "this is a node based shop ",
+  "main": "shopserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon shopserver.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikhilsunil90s/NodeShop.git"
+  },
+  "author": "Nik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikhilsunil90s/NodeShop/issues"
+  },
+  "homepage": "https://github.com/Nikhilsunil90s/NodeShop#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
